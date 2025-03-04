@@ -34,7 +34,11 @@ url = "https://github.com/tpmccallum" # From your original site
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/medium/ffffff"
 title = "Medium"
-url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395" 
+url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/gmail/ffffff"
+title = "Email"
+url = "mailto:mistermac2008@gmail.com"
 [[sections]]
 title = "Projects"
 direction = "column"
