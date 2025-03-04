@@ -147,6 +147,7 @@ def create_meta_tags(data: Data):
 
 
 def create_head(data: Data):
+    print(data.gtag_id)
     return h("head")(
         create_meta_tags(data),
         h("link", rel="stylesheet", href="css/pico.min.css"),
