@@ -1,53 +1,93 @@
-name = "Jake Gyllenhaal"
-description = "Accomplished actor, captivating with versatility and charisma."
-keywords = "Jake Gyllenhaal, actor, filmography, awards, versatile performances, Hollywood"
-image = "jake.webp"
+name = "Tim McCallum"
+description = "Exploring WebAssembly’s potential as a researcher, writer, and software engineer."
+keywords = "WebAssembly, Wasm, Rust, Consultant, Python"
+image = "tpmccallum.jpg" # Placeholder; replace with your preferred image
 theme = "dark"
-primary_color = "#d81b60"
+primary_color = "#1e88e5" # Blue tone inspired by tech vibes; adjust as needed
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV"
-base_url = "https://thevahidal.github.io/jake"
+gtag_id = "G-XLJ81DCZFV" # Kept as is from template; update if you have your own
+base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" # Updated to your original domain; adjust if needed
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Publications"
+description = "Explore my writings on WebAssembly and beyond"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
+description = "Unpacking the hidden challenges of running Wasm in the wild"
+url = "https://medium.com/wasm/webassemblys-unseen-gap-why-our-code-might-not-work-1df65bb1301b"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
+title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
+description = "Building interoperable Wasm components with C and Rust"
+url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
 [[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
+title = "Diving Into Ethereum’s World State"
+description = "A deep dive into how Ethereum works"
+url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed" # Link to book; adjust if you have a direct chapter link
 [[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
+title = "Mastering Ethereum (GitHub Contribution)"
+description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book"
+url = "https://github.com/ethereumbook/ethereumbook"
 
 [[sections]]
 title = "Links"
-description = "Look for me on these websites"
-direction = "row"
-item_style = "filled"
+description = "Connect with me"
+direction = "column"
+item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram"
-url = "https://www.instagram.com/jakegyllenhaal"
+icon = "https://cdn.simpleicons.org/x/ffffff"
+title = "X" 
+url = "https://x.com/mistermac2008" 
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/imdb/ffffff"
-title = "IMDb"
-url = "https://www.imdb.com/name/nm0350453/"
+icon = "https://cdn.simpleicons.org/github/ffffff"
+title = "GitHub"
+url = "https://github.com/tpmccallum" # From your original site
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/wikipedia/ffffff"
-title = "Wikipedia"
-url = "https://en.wikipedia.org/wiki/Jake_Gyllenhaal"
+icon = "https://cdn.simpleicons.org/medium/ffffff"
+title = "Medium"
+url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395" 
+
+[[sections]]
+title = "Scholarly Works Referencing My Writing"
+description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE)  by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
 [[sections.items]]
-title = "Rotten Tomatoes"
-icon = "https://cdn.simpleicons.org/rottentomatoes/ffffff"
-url = "https://www.rottentomatoes.com/celebrity/jake_gyllenhaal"
+title = "Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly."
+description = "Publisher: arXiv.org (Cornell University)"
+url = "https://arxiv.org/abs/2110.15433"
+[[sections.items]]
+title = "An Ethereum bill of lading under the UNCITRAL MLETR"
+description = "Publisher: Sage Journals"
+url = "https://journals.sagepub.com/doi/abs/10.1177/1023263X20904316"
+[[sections.items]]
+title = "Using Ethereum blockchain to store and query pharmacogenomics data via smart contracts"
+description = "Publisher: BMC Medical Genomics (Springer Nature)"
+url = "https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-00732-x"
+[[sections.items]]
+title = "Ethereum Analytics"
+description = "Publisher: ETH Zürich (Switzerland)"
+url = "https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_thesis-Athina_Voulgari.pdf"
+[[sections.items]]
+title = "Blockchain Technology in the Oil and Gas Industry: A Review of Applications, Opportunities, Challenges, and Risks"
+description = "Publisher: IEEE Xplore"
+url = "https://ieeexplore.ieee.org/abstract/document/8675726"
+[[sections.items]]
+title = "Everything Old is New Again: Binary Security of WebAssembly"
+description = "Publisher: The Advanced Computing System Association (USE-NIX) – 29th Security Symposium"
+url = "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
+[[sections.items]]
+title = "Symbolic Execution of Wasm Bytecode for Cross-Platform Smart Contract Vulnerability Detection"
+description = "Publisher: arXiv.org (Cornell University)"
+url = "https://arxiv.org/abs/2007.15510"
+[[sections.items]]
+title = "Blockchain als verteilte Netzwerktechnologie"
+description = "Publisher: Springer Link"
+url = "https://link.springer.com/chapter/10.1007/978-3-658-29822-7_2"
+[[sections.items]]
+title = "Einer Blockchain-basierten IoT-Infrastruktur mit Ethereum und Swarm"
+description = "Publisher: HAW Hamburg"
+url = "https://reposit.haw-hamburg.de/bitstream/20.500.12738/9127/1/BA_Artur_Iablokov.pdf"
