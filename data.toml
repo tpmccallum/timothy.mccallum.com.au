@@ -1,59 +1,17 @@
 name = "Tim McCallum"
-description = "Exploring WebAssembly’s potential as a researcher, writer, and software engineer."
+description = "WebAssembly (Wasm) researcher, technical writer, and software engineer."
 keywords = "WebAssembly, Wasm, Rust, Consultant, Python"
-image = "tpmccallum.jpg" # Placeholder; replace with your preferred image
+image = "tpmccallum.jpg" 
 theme = "dark"
-primary_color = "#1e88e5" # Blue tone inspired by tech vibes; adjust as needed
+primary_color = "#1e88e5" 
 text_align = "center"
-gtag_id = "G-XLJ81DCZFV" # Kept as is from template; update if you have your own
-base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" # Updated to your original domain; adjust if needed
-
+gtag_id = "G-SJPMS5JZ17" 
+base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" 
 [[sections]]
-title = "Let's Unlock WebAssembly's Potential"
-description = "WebAssembly (Wasm) is transforming how we build high-performance, secure, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm researcher, technical writer, and software engineer, I specialize in navigating its complexities—from sandboxed execution to cross-language component models—to deliver tailored, scalable implementations. Whether it’s optimizing performance for cloud platforms, enhancing browser-based tools, or integrating Wasm into cutting-edge ecosystems, I bring hands-on insights and proven strategies that align with the ambitions of industry leaders. Let’s explore how Wasm can elevate your next project—reach out to discuss possibilities."
-
+title = "Let's Unlock Wasm's Potential"
+description = "Wasm is transforming how we build secure, high-performance, portable, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm specialise, I deliver tailored solutions and integrations. Contact me to unlock Wasm’s potential for your project or organization."
 [[sections]]
-title = "Recent Projects"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-title = "Technical Writing"
-description = "Spin: official documentation."
-url = "https://github.com/fermyon/developer/graphs/contributors"
-[[sections.items]]
-title = "Technical Writing"
-description = "SpinKube: official documentation"
-url = "https://github.com/spinkube/documentation/graphs/contributors"
-
-[[sections]]
-title = "Recent Publications"
-description = "Explore my writings on WebAssembly and beyond"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
-description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems."
-url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
-[[sections.items]]
-title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
-description = "Unpacking the hidden challenges of running Wasm in the wild"
-url = "https://medium.com/wasm/webassemblys-unseen-gap-why-our-code-might-not-work-1df65bb1301b"
-[[sections.items]]
-title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
-description = "Building interoperable Wasm components with C and Rust"
-url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
-[[sections.items]]
-title = "Diving Into Ethereum’s World State"
-description = "A deep dive into how Ethereum works"
-url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed" # Link to book; adjust if you have a direct chapter link
-[[sections.items]]
-title = "Mastering Ethereum (GitHub Contribution)"
-description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book"
-url = "https://github.com/ethereumbook/ethereumbook"
-
-[[sections]]
-title = "Links"
-description = "Connect with me"
+title = "Contact Me"
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
@@ -69,15 +27,66 @@ url = "https://github.com/tpmccallum" # From your original site
 icon = "https://cdn.simpleicons.org/medium/ffffff"
 title = "Medium"
 url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395" 
-
 [[sections]]
-title = "Scholarly Works Referencing My Writing"
-description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE)  by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A."
+title = "Projects"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Spin: Official Documentation"
+description = "Technical Writing Project"
+url = "https://github.com/fermyon/developer/graphs/contributors"
+[[sections.items]]
+title = "SpinKube: Official Documentation"
+description = "Technical Writing Project"
+url = "https://github.com/spinkube/documentation/graphs/contributors"
+[[sections]]
+title = "Articles"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
+description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems"
+url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
+[[sections.items]]
+title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
+description = "Unpacking the hidden challenges of running Wasm in the wild"
+url = "https://medium.com/wasm/webassemblys-unseen-gap-why-our-code-might-not-work-1df65bb1301b"
+[[sections.items]]
+title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
+description = "Building interoperable Wasm components with C and Rust"
+url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
+[[sections.items]]
+title = "Leveraging Python Standard Library via WebAssembly"
+description = "Explore how Python's extensive libraries, when compiled to WebAssembly, simplify solving complex mathematical problems over the web"
+url = "https://www.fermyon.com/blog/leveraging-python-standard-library-via-webassembly"
+[[sections.items]]
+title = "Persisting Data in WebAssembly Applications Using Redis"
+description = "Unleash the power of WebAssembly with Spin 2.0 as we guide you through using Redis for state-of-the-art data persistence in cloud-based applications"
+url = "https://www.fermyon.com/blog/persisting_data_in_webassembly_applications_using_redis"
+[[sections.items]]
+title = "Serverless AI Inferencing Using Python"
+description = "Serverless AI Inferencing Using Python: Deploy Python-based serverless AI with Spin effortlessly. Dive into our step-by-step guide to unlock seamless AI inferencing on Fermyon Cloud"
+url = "https://www.fermyon.com/blog/serverless-ai-inferencing-using-python"
+[[sections.items]]
+title = "Can we put the AI in hAIku?"
+description = "In a time where Large Language Models (LLMs) are continuing to blossom, do you think that we still hold a discernible edge over Artificial Intelligence (AI) when it comes to writing hauki poetry?"
+url = "https://www.fermyon.com/blog/can-we-put-the-ai-in-haiku"
+[[sections.items]]
+title = "Diving Into Ethereum’s World State"
+description = "A deep dive into how Ethereum works"
+url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed" # Link to book; adjust if you have a direct chapter link
+[[sections.items]]
+title = "Mastering Ethereum (GitHub Contribution)"
+description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book"
+url = "https://github.com/ethereumbook/ethereumbook"
+[[sections]]
+title = "Scholarly Works That Reference My Articles"
+description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE) by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A"
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
-title = "Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly."
+title = "Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly"
 description = "Publisher: arXiv.org (Cornell University)"
 url = "https://arxiv.org/abs/2110.15433"
 [[sections.items]]

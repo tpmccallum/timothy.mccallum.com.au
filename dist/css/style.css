@@ -36,3 +36,9 @@
   gap: var(--spacing);
   justify-content: center;
 }
+
+/* remove the vertical gap from main container and also from header container */
+.container {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
