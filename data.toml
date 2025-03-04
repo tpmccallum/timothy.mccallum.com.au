@@ -1,5 +1,5 @@
 name = "Tim McCallum"
-description = "WebAssembly (Wasm) researcher, technical writer, and software engineer"
+description = "WebAssembly (Wasm) researcher, technical writer, and software engineer."
 keywords = "WebAssembly, Wasm, Rust, Consultant, Python"
 image = "tpmccallum.jpg" 
 theme = "dark"
@@ -9,18 +9,18 @@ gtag_id = "G-SJPMS5JZ17"
 base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" 
 [[sections]]
 title = "Let's Unlock Wasm's Potential"
-description = "Wasm is transforming how we build secure, high-performance, portable, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm specialise, I deliver tailored solutions and integrations. Contact me to unlock Wasm’s potential for your project or organization"
+description = "Wasm is transforming how we build secure, high-performance, portable, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm specialise, I deliver tailored solutions and integrations. Contact me to unlock Wasm’s potential for your project or organization."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/webassembly/ffffff"
 title = "Wasm Made Simple"
-description = "Simplifying, building, customizing and learning about Wasm solutions together"
+description = "Simplify, build, customize and learn about Wasm."
 url = "https://tpmccallum.github.io/timothy.mccallum.com.au/contact.html" 
 [[sections]]
 title = "Contact Me"
-description = "I am based in Queensland, Australia. I have no issue travelling interstate or internationally for work. I have attended many many international events; working in California, China, Florida, Georgia, Illinois, Japan, London, Mexico and Spain"
+description = "I am based in Queensland, Australia. I have no issue travelling interstate or internationally for work. I have attended many many international events; working in California, China, Florida, Georgia, Illinois, Japan, London, Mexico and Spain."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
@@ -46,11 +46,11 @@ direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "Spin: Official Documentation"
-description = "Technical Writing Project"
+description = "Technical Writing Project."
 url = "https://github.com/fermyon/developer/graphs/contributors"
 [[sections.items]]
 title = "SpinKube: Official Documentation"
-description = "Technical Writing Project"
+description = "Technical Writing Project."
 url = "https://github.com/spinkube/documentation/graphs/contributors"
 [[sections]]
 title = "Articles"
@@ -58,27 +58,27 @@ direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
-description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems"
+description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems."
 url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
 [[sections.items]]
 title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
-description = "Unpacking the hidden challenges of running Wasm in the wild"
+description = "Unpacking the hidden challenges of running Wasm in the wild."
 url = "https://medium.com/wasm/webassemblys-unseen-gap-why-our-code-might-not-work-1df65bb1301b"
 [[sections.items]]
 title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
-description = "Building interoperable Wasm components with C and Rust"
+description = "Building interoperable Wasm components with C and Rust."
 url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
 [[sections.items]]
 title = "Leveraging Python Standard Library via WebAssembly"
-description = "Explore how Python's extensive libraries, when compiled to WebAssembly, simplify solving complex mathematical problems over the web"
+description = "Explore how Python's extensive libraries, when compiled to WebAssembly, simplify solving complex mathematical problems over the web."
 url = "https://www.fermyon.com/blog/leveraging-python-standard-library-via-webassembly"
 [[sections.items]]
 title = "Persisting Data in WebAssembly Applications Using Redis"
-description = "Unleash the power of WebAssembly with Spin 2.0 as we guide you through using Redis for state-of-the-art data persistence in cloud-based applications"
+description = "Unleash the power of WebAssembly with Spin 2.0 as we guide you through using Redis for state-of-the-art data persistence in cloud-based applications."
 url = "https://www.fermyon.com/blog/persisting_data_in_webassembly_applications_using_redis"
 [[sections.items]]
 title = "Serverless AI Inferencing Using Python"
-description = "Serverless AI Inferencing Using Python: Deploy Python-based serverless AI with Spin effortlessly. Dive into our step-by-step guide to unlock seamless AI inferencing on Fermyon Cloud"
+description = "Serverless AI Inferencing Using Python: Deploy Python-based serverless AI with Spin effortlessly. Dive into our step-by-step guide to unlock seamless AI inferencing on Fermyon Cloud."
 url = "https://www.fermyon.com/blog/serverless-ai-inferencing-using-python"
 [[sections.items]]
 title = "Can we put the AI in hAIku?"
@@ -86,53 +86,53 @@ description = "In a time where Large Language Models (LLMs) are continuing to bl
 url = "https://www.fermyon.com/blog/can-we-put-the-ai-in-haiku"
 [[sections.items]]
 title = "Diving Into Ethereum’s World State"
-description = "A deep dive into how Ethereum works"
-url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed" # Link to book; adjust if you have a direct chapter link
+description = "A deep dive into how Ethereum works."
+url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed"
 [[sections.items]]
 title = "Mastering Ethereum (GitHub Contribution)"
-description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book"
+description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book."
 url = "https://github.com/ethereumbook/ethereumbook"
 [[sections]]
 title = "Scholarly Works That Reference My Articles"
-description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE) by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A"
+description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE) by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
 title = "Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly"
-description = "Publisher: arXiv.org (Cornell University)"
+description = "Publisher: arXiv.org (Cornell University)."
 url = "https://arxiv.org/abs/2110.15433"
 [[sections.items]]
 title = "An Ethereum bill of lading under the UNCITRAL MLETR"
-description = "Publisher: Sage Journals"
+description = "Publisher: Sage Journals."
 url = "https://journals.sagepub.com/doi/abs/10.1177/1023263X20904316"
 [[sections.items]]
 title = "Using Ethereum blockchain to store and query pharmacogenomics data via smart contracts"
-description = "Publisher: BMC Medical Genomics (Springer Nature)"
+description = "Publisher: BMC Medical Genomics (Springer Nature)."
 url = "https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-00732-x"
 [[sections.items]]
 title = "Ethereum Analytics"
-description = "Publisher: ETH Zürich (Switzerland)"
+description = "Publisher: ETH Zürich (Switzerland)."
 url = "https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_thesis-Athina_Voulgari.pdf"
 [[sections.items]]
 title = "Blockchain Technology in the Oil and Gas Industry: A Review of Applications, Opportunities, Challenges, and Risks"
-description = "Publisher: IEEE Xplore"
+description = "Publisher: IEEE Xplore."
 url = "https://ieeexplore.ieee.org/abstract/document/8675726"
 [[sections.items]]
 title = "Everything Old is New Again: Binary Security of WebAssembly"
-description = "Publisher: The Advanced Computing System Association (USE-NIX) – 29th Security Symposium"
+description = "Publisher: The Advanced Computing System Association (USE-NIX) – 29th Security Symposium."
 url = "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
 [[sections.items]]
 title = "Symbolic Execution of Wasm Bytecode for Cross-Platform Smart Contract Vulnerability Detection"
-description = "Publisher: arXiv.org (Cornell University)"
+description = "Publisher: arXiv.org (Cornell University)."
 url = "https://arxiv.org/abs/2007.15510"
 [[sections.items]]
 title = "Blockchain als verteilte Netzwerktechnologie"
-description = "Publisher: Springer Link"
+description = "Publisher: Springer Link."
 url = "https://link.springer.com/chapter/10.1007/978-3-658-29822-7_2"
 [[sections.items]]
 title = "Einer Blockchain-basierten IoT-Infrastruktur mit Ethereum und Swarm"
-description = "Publisher: HAW Hamburg"
+description = "Publisher: HAW Hamburg."
 url = "https://reposit.haw-hamburg.de/bitstream/20.500.12738/9127/1/BA_Artur_Iablokov.pdf"
 [[sections]]
 title = "Awards"
@@ -141,9 +141,9 @@ item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
 title = "AMP Tomorrow Maker"
-description = "2015 AMP Tomorrow Maker award recipient"
+description = "2015 AMP Tomorrow Maker award recipient."
 url = "https://www.amp.com.au/ampfoundation"
 [[sections.items]]
 title = "EOS Global Hackathon: Most Valuable Mentor"
-description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia"
+description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia."
 url = "https://x.com/EOSIO/status/1026027344668942336"
