@@ -9,10 +9,31 @@ gtag_id = "G-XLJ81DCZFV" # Kept as is from template; update if you have your own
 base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" # Updated to your original domain; adjust if needed
 
 [[sections]]
-title = "Publications"
+title = "Let's Unlock WebAssembly's Potential"
+description = "WebAssembly (Wasm) is transforming how we build high-performance, secure, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm researcher, technical writer, and software engineer, I specialize in navigating its complexities—from sandboxed execution to cross-language component models—to deliver tailored, scalable implementations. Whether it’s optimizing performance for cloud platforms, enhancing browser-based tools, or integrating Wasm into cutting-edge ecosystems, I bring hands-on insights and proven strategies that align with the ambitions of industry leaders. Let’s explore how Wasm can elevate your next project—reach out to discuss possibilities."
+
+[[sections]]
+title = "Recent Projects"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Technical Writing"
+description = "Spin: official documentation."
+url = "https://github.com/fermyon/developer/graphs/contributors"
+[[sections.items]]
+title = "Technical Writing"
+description = "SpinKube: official documentation"
+url = "https://github.com/spinkube/documentation/graphs/contributors"
+
+[[sections]]
+title = "Recent Publications"
 description = "Explore my writings on WebAssembly and beyond"
 direction = "column"
 item_style = "outline"
+[[sections.items]]
+title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
+description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems."
+url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
 [[sections.items]]
 title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
 description = "Unpacking the hidden challenges of running Wasm in the wild"
