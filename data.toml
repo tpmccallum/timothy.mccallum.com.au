@@ -10,8 +10,16 @@ base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/"
 [[sections]]
 title = "Let's Unlock Wasm's Potential"
 description = "Wasm is transforming how we build secure, high-performance, portable, and interoperable applications, but unlocking its full potential requires more than off-the-shelf solutions. As a seasoned Wasm specialise, I deliver tailored solutions and integrations. Contact me to unlock Wasm’s potential for your project or organization."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+icon = "https://cdn.simpleicons.org/webassembly/ffffff"
+title = "Wasm"
+url = "https://tpmccallum.github.io/timothy.mccallum.com.au/contact.html" 
 [[sections]]
 title = "Contact Me"
+description = "I am based in Queensland, Australia. I have no issue travelling interstate or internationally for work. I have attended many many international events; working in California, China, Florida, Georgia, Illinois, Japan, London, Mexico and Spain."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
@@ -121,3 +129,16 @@ url = "https://link.springer.com/chapter/10.1007/978-3-658-29822-7_2"
 title = "Einer Blockchain-basierten IoT-Infrastruktur mit Ethereum und Swarm"
 description = "Publisher: HAW Hamburg"
 url = "https://reposit.haw-hamburg.de/bitstream/20.500.12738/9127/1/BA_Artur_Iablokov.pdf"
+[[sections]]
+title = "Awards"
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+title = "AMP Tomorrow Maker"
+description = "2015 AMP Tomorrow Maker award recipient"
+url = "https://www.amp.com.au/ampfoundation"
+[[sections.items]]
+title = "EOS Global Hackathon: Most Valuable Mentor"
+description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia"
+url = "https://x.com/EOSIO/status/1026027344668942336"
