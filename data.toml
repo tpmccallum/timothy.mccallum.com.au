@@ -27,6 +27,7 @@ icon_size = "30px"
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/x/ffffff"
 title = "X" 
+url = "https://x.com/mistermac2008" 
 [[sections.items]]
 icon = "https://cdn.simpleicons.org/instagram/ffffff"
 title = "Instagram" 
