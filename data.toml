@@ -65,6 +65,10 @@ title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
 description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems."
 url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
 [[sections.items]]
+title = "Running WebAssembly (Wasm) Components From the Command Line"
+description = "Learn to build and invoke an exported function from a Rust/Wasm component."
+url = "https://bytecodealliance.org/articles/invoking-component-functions-in-wasmtime-cli"
+[[sections.items]]
 title = "C++ Meets the Open Web"
 description = "This article shows you how to write C++ for the Web."
 url = "https://medium.com/wasm/c-meets-the-open-web-74fd71e7fc2b"
