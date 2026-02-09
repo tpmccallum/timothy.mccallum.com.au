@@ -46,18 +46,6 @@ icon = "https://cdn.simpleicons.org/gmail/ffffff"
 title = "Email"
 url = "mailto:mistermac2008@gmail.com"
 [[sections]]
-title = "Projects"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-title = "Spin: Official Documentation"
-description = "Technical Writing Project."
-url = "https://github.com/fermyon/developer/graphs/contributors"
-[[sections.items]]
-title = "SpinKube: Official Documentation"
-description = "Technical Writing Project."
-url = "https://github.com/spinkube/documentation/graphs/contributors"
-[[sections]]
 title = "Articles"
 direction = "column"
 item_style = "outline"
@@ -168,3 +156,15 @@ url = "https://www.amp.com.au/ampfoundation"
 title = "EOS Global Hackathon: Most Valuable Mentor"
 description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia."
 url = "https://x.com/EOSIO/status/1026027344668942336"
+[[sections]]
+title = "Projects"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Spin: Official Documentation"
+description = "Technical Writing Project."
+url = "https://github.com/fermyon/developer/graphs/contributors"
+[[sections.items]]
+title = "SpinKube: Official Documentation"
+description = "Technical Writing Project."
+url = "https://github.com/spinkube/documentation/graphs/contributors"
