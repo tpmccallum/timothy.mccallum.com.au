@@ -47,15 +47,16 @@ title = "Email"
 url = "mailto:mistermac2008@gmail.com"
 [[sections]]
 title = "Articles"
+description = "I publish technical articles through collaboration in the Free and Open Source Software (FOSS) ecosystem, i.e. with contributors of Bytecode Alliance member organisations, which include F5, Microsoft, and Google. I enjoy visiting Silicon Valley for community events. I am a celebrated mentor of the Google Summer of Code (GSoC) and enjoyed attending the inaugural WebAssembly Summit at Google headquarters in 2020."
 direction = "column"
 item_style = "outline"
 [[sections.items]]
 title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
-description = "Joined industry leaders at a pivotal Google summit in Mountain View to shape WebAssembly’s role in next-gen ecosystems."
+description = "Joined community leaders at a pivotal Google summit in Mountain View to help shape WebAssembly’s role in next-generation ecosystems."
 url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
 [[sections.items]]
 title = "Running WebAssembly (Wasm) Components From the Command Line"
-description = "Learn to build and invoke an exported function from a Rust/Wasm component."
+description = "Technical article published by the Bytecode Alliance. Learn to build and invoke an exported function from a Rust and Wasm component using the Wasmtime CLI."
 url = "https://bytecodealliance.org/articles/invoking-component-functions-in-wasmtime-cli"
 [[sections.items]]
 title = "C++ Meets the Open Web"
