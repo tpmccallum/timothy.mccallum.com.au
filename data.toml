@@ -66,14 +66,6 @@ title = "Wasm-Powered Data Transformation"
 description = "Working With Excel And JSON."
 url = "https://medium.com/wasm/wasm-powered-data-transformation-working-with-excel-and-json-fb3ccdc952f2"
 [[sections.items]]
-title = "WebAssembly: Solving Technical Debt"
-description = "How WebAssembly Crushes Technical Debt."
-url = "https://medium.com/wasm/webassembly-solving-technical-debt-0bb7e390bdcb"
-[[sections.items]]
-title = "WebAssembly’s Unseen Gap: Why Our Code Might Not Work"
-description = "Unpacking the hidden challenges of running Wasm in the wild."
-url = "https://medium.com/wasm/webassemblys-unseen-gap-why-our-code-might-not-work-1df65bb1301b"
-[[sections.items]]
 title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
 description = "Building interoperable Wasm components with C and Rust."
 url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
