@@ -15,7 +15,7 @@ item_style = "outline"
 icon_size = "30px"
 [[sections]]
 title = "Contact Me"
-description = "I am a renaissance developer operating at the intersection of software architecture and agricultural autonomy. With foundations in both automotive engineering and advanced software development, I design resilient, production-grade systems for real-world field environments and lead teams toward reliable, measurable operational performance."
+description = "I work to find and deliver value at the intersection of software architecture and agricultural autonomy. As a trade qualified automotive engineer and university qualified software engineer, I design world class systems for field environments and lead teams toward reliable, measurable performance."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
