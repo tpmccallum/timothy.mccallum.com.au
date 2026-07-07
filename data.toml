@@ -8,8 +8,8 @@ text_align = "center"
 gtag_id = "G-SJPMS5JZ17" 
 base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" 
 [[sections]]
-title = "Designing dependable autonomy systems for real farms across Australia."
-description = "I am a Principal Autonomy Specialist and Customer Systems Lead at Agri Automation Australia, working at the intersection of robotics, agricultural engineering, and edge‑native software infrastructure. I design production‑ready autonomy systems that deliver reliable operation, reduce labour pressure, and perform consistently within tight weather and timing windows. My work spans high‑precision GNSS navigation, row‑to‑row route architecture, connectivity and telemetry systems, and Web/Cloud API integrations that link robots to real farm workflows. I take a disciplined, systems‑engineering approach; anticipating failure modes, validating performance, and ensuring autonomy behaves predictably in real‑world conditions."
+title = "Emergency Services Adult Cadet Leader"
+description = "I volunteer with the Highfields Emergency Services Unit as an Adult Cadet Leader."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
@@ -42,10 +42,35 @@ url = "mailto:mistermac2008@gmail.com"
 icon = "https://cdn.simpleicons.org/x/ffffff"
 title = "X" 
 [[sections]]
-title = "Articles"
-description = "I publish technical articles through collaboration in the Free and Open Source Software (FOSS) ecosystem, i.e. with contributors of Bytecode Alliance member organisations, which include F5, Microsoft, and Google. I enjoy visiting Silicon Valley for community events. I am a celebrated mentor of the Google Summer of Code (GSoC) and enjoyed attending the inaugural WebAssembly Summit at Google headquarters in 2020."
+title = "Awards"
 direction = "column"
 item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+title = "AMP Tomorrow Maker"
+description = "2015 AMP Tomorrow Maker award recipient."
+url = "https://www.amp.com.au/ampfoundation"
+[[sections.items]]
+title = "EOS Global Hackathon: Most Valuable Mentor"
+description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia."
+url = "https://x.com/EOSIO/status/1026027344668942336"
+[[sections]]
+title = "News & Articles"
+description = "News & Articles"
+direction = "column"
+item_style = "outline"
+[[sections.items]]
+title = "Agri Automation Australia Scaled Farm Robotics Monitoring"
+description = "Autonomous farming innovator reduced manual monitoring and cost-effectively scaled with real-time edge alerts."
+url = "https://www.akamai.com/resources/customer-story"
+[[sections.items]]
+title = "Farming at the Edge: Where Autonomous Robots and Edge Compute Meet"
+description = "Autonomous robots create value when they work continuously, safely, and independently — not when they are being watched. They should only require human attention when it truly matters."
+url = "https://www.akamai.com/blog/edge/farming-edge-autonomous-robots-edge-compute-meet"
+[[sections.items]]
+title = "Journey from Toowoomba to the Silicon Valley"
+description = "Reshaping Australian Agriculture through autonomous robotics."
+url = "https://www.thechronicle.com.au/news/community/how-curiosity-took-toowoomba-mechanic-tim-mccallum-to-silicon-valley-and-back/news-story/3c7c28b1ffe5d8459732f393b1fa063c"
 [[sections.items]]
 title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
 description = "Joined community leaders at a pivotal Google summit in Mountain View to help shape WebAssembly’s role in next-generation ecosystems."
@@ -120,28 +145,4 @@ url = "https://link.springer.com/chapter/10.1007/978-3-658-29822-7_2"
 title = "Einer Blockchain-basierten IoT-Infrastruktur mit Ethereum und Swarm"
 description = "Publisher: HAW Hamburg."
 url = "https://reposit.haw-hamburg.de/bitstream/20.500.12738/9127/1/BA_Artur_Iablokov.pdf"
-[[sections]]
-title = "Awards"
-direction = "column"
-item_style = "outline"
-icon_size = "30px"
-[[sections.items]]
-title = "AMP Tomorrow Maker"
-description = "2015 AMP Tomorrow Maker award recipient."
-url = "https://www.amp.com.au/ampfoundation"
-[[sections.items]]
-title = "EOS Global Hackathon: Most Valuable Mentor"
-description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia."
-url = "https://x.com/EOSIO/status/1026027344668942336"
-[[sections]]
-title = "Projects"
-direction = "column"
-item_style = "outline"
-[[sections.items]]
-title = "Spin: Official Documentation"
-description = "Technical Writing Project."
-url = "https://github.com/fermyon/developer/graphs/contributors"
-[[sections.items]]
-title = "SpinKube: Official Documentation"
-description = "Technical Writing Project."
-url = "https://github.com/spinkube/documentation/graphs/contributors"
+
