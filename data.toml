@@ -1,154 +1,227 @@
 name = "Tim McCallum"
-description = "I design and deploy production-ready autonomous agricultural systems by combining software, robotics, and systems engineering to deliver reliable, measurable outcomes in real-world farming."
-keywords = "Toowoomba, Queensland, QLD, Australia, AgTech, Automation, PCYC, Emergency Services"
-image = "tpmccallum.jpg" 
+description = "Software Engineer, Technical Leader, Board Director and Award Winning Mentor. I connect people, technology and organisations through systems engineering, strategic partnerships, stakeholder engagement and communications. Based in Toowoomba, Queensland."
+keywords = "Tim McCallum, Timothy McCallum, Toowoomba, Queensland, Australia, Principal Software Engineer, Software Engineering, Technical Lead, Engineering Leadership, Systems Architecture, C++, Rust, Python, WebAssembly, Cloud APIs, Artificial Intelligence, Robotics, Autonomy, Technology Consultant, Board Director, Stakeholder Engagement, Industry Engagement, B2B Partnerships, Strategic Communications, Corporate Communications, Community Engagement, Mentoring, Coaching, PCYC Queensland, Emergency Services Cadets"
+image = "tpmccallum.jpg"
 theme = "dark"
-primary_color = "#1e88e5" 
+primary_color = "#1e88e5"
 text_align = "center"
-gtag_id = "G-SJPMS5JZ17" 
-base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/" 
+gtag_id = "G-SJPMS5JZ17"
+base_url = "https://tpmccallum.github.io/timothy.mccallum.com.au/"
+
 [[sections]]
-title = "Agri Automation Australia"
-description = "Principal Autonomy Specialist & Customer Systems Lead - Agri Automation Australia."
+title = "About Me"
+description = "I am a multidisciplinary software engineer, technical leader and former company director who brings together hands-on engineering, business analysis, stakeholder engagement and communications. My background spans university and public sector projects, international software companies, cloud infrastructure, autonomous robotics and community service. I turn complex challenges into practical solutions, engage the people who matter and help teams deliver lasting value."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
+
 [[sections]]
-title = "Emergency Services Adult Cadet Leader"
-description = "I volunteer with the Highfields Emergency Services Unit as an Adult Cadet Leader."
+title = "Professional Focus"
+description = "I am interested in senior software engineering, principal and technical lead roles, technology consulting, industry and stakeholder engagement, strategic partnerships, corporate communications and community leadership. I bring both the ability to design and implement systems and the judgement to align technical decisions with organisational and community needs."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
+
 [[sections]]
-title = "Contact Me"
-description = "I work to find and deliver value at the intersection of software architecture and agricultural autonomy. As a trade qualified automotive engineer and university qualified software engineer, I design world class systems for field environments and lead teams toward reliable, measurable performance."
+title = "Software Engineering and Systems Architecture"
+description = "Experience across C++, Python, Rust, TypeScript, cloud APIs, WebAssembly(Wasm), data integration, telemetry and automation. I design, troubleshoot and integrate complex systems, from low-level data interoperability to production services and customer-facing applications. My most recent work in agricultural autonomy connects robot APIs, cloud services and operational notifications, with an emphasis on reliability, practical outcomes and clear technical documentation."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
-title = "LinkedIn" 
-url = "https://www.linkedin.com/in/timothy-philip-mccallum/" 
+title = "GitHub: Open Source and Engineering Projects"
+description = "Selected source code, technical experiments and contributions."
+url = "https://github.com/tpmccallum"
 [[sections.items]]
-icon = "https://cdn.simpleicons.org/instagram/ffffff"
-title = "Instagram" 
-url = "https://www.instagram.com/tpmccallum/" 
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/github/ffffff"
-title = "GitHub"
-url = "https://github.com/tpmccallum" # From your original site
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/medium/ffffff"
-title = "Medium"
+title = "Technical Publications"
+description = "Published engineering articles, tutorials and research."
 url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/gmail/ffffff"
-title = "Email"
-url = "mailto:mistermac2008@gmail.com"
-[[sections.items]]
-icon = "https://cdn.simpleicons.org/x/ffffff"
-title = "X" 
+
 [[sections]]
-title = "Awards"
+title = "Leadership and Board Experience"
+description = "My experience includes serving as a director of VTM Consulting Pty. Ltd. and as a director of the University of Southern Queensland Student Guild, leading business analysis at Toowoomba Regional Council and delivering university projects for senior stakeholders. I combine technical direction with planning, clear communication, mentoring, risk awareness and practical delivery. I have worked with executive leaders, engineering teams, customers and external partners across organisational boundaries."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+
+[[sections]]
+title = "Stakeholder Engagement and Strategic Partnerships"
+description = "I connect technical teams, business leaders, industry partners and customers to clarify requirements, resolve complex issues and create shared outcomes. My experience includes B2B technology relationships, customer engagement, requirements analysis, technical presentations, training, strategic problem solving and stakeholder communications. I focus on trust, accountability, measurable outcomes and follow-through.
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+
+[[sections]]
+title = "Corporate Communications and Technical Writing"
+description = "I translate complex ideas into accessible, accurate content for technical, executive and public audiences. As a Digital Content Specialist at Fermyon Technologies, I developed documentation and publications for international developer communities. My work also includes industry storytelling, customer success communications, media collaboration, editing, presentations and communicating business and technical change."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
-title = "AMP Tomorrow Maker"
-description = "2015 AMP Tomorrow Maker award recipient."
-url = "https://www.amp.com.au/ampfoundation"
+title = "Akamai Customer Story: Agricultural Automation"
+description = "A published account of robotics monitoring and customer value."
+url = "https://www.akamai.com/resources/customer-story/agri-automation"
+[[sections.items]]
+title = "Farming at the Edge"
+description = "Published article about autonomous robots, cloud services and practical field outcomes."
+url = "https://www.akamai.com/blog/edge/farming-edge-autonomous-robots-edge-compute-meet"
+
+[[sections]]
+title = "Agricultural Robotics and Customer Systems"
+description = "Former Principal Autonomy Specialist and Customer Systems Lead at Agri Automation Australia (March to October 2026), following a Support and Deployment Technician role from August 2025. I worked across GNSS, RTK positioning, connectivity, robot integrations, remote monitoring, operator training, customer support and field operations. I collaborated with technical partners and customers to improve deployment quality, issue resolution and operational visibility."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+
+[[sections]]
+title = "Community Leadership and Emergency Services"
+description = "I volunteer as an Emergency Services Cadets Adult Leader with PCYC Queensland at Highfields. I support cadet development through practical learning, safety awareness, teamwork, mentoring and community engagement, connecting young people with emergency services and local community organisations. My commitment to PCYC also includes earlier participation (at Toowoomba PCYC) in Renbukan Karate and volunteering as a PCYC fitness coach."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+
+[[sections]]
+title = "Mentoring and Recognition"
+description = "Mentoring, coaching and developing others are central to my leadership approach. I have been recognised as a Google Summer of Code (GSoC) Mentor. I attended the GSoC 10-year reunion at Google Headquarters in Silicon Valley. I was awarded EOS Global Hackathon Most Valuable Mentor and also an AMP Tomorrow Maker Award recipient."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+title = "Google Summer of Code Mentor"
+description = "International open source development mentorship."
+url = "https://summerofcode.withgoogle.com/"
 [[sections.items]]
 title = "EOS Global Hackathon: Most Valuable Mentor"
-description = "Most Valuable Mentor award recipient at the 2018 EOS Global Hackathon event in Sydney, Australia."
+description = "Recipient at the 2018 Sydney event."
 url = "https://x.com/EOSIO/status/1026027344668942336"
+[[sections.items]]
+title = "AMP Tomorrow Maker"
+description = "2015 award recipient."
+url = "https://www.amp.com.au/ampfoundation"
+
 [[sections]]
-title = "News & Articles"
-description = "News & Articles"
+title = "Education and Professional Foundations"
+description = "Advanced Diploma in Business from the University of Southern Queensland, with Doctor of Professional Studies confirmation of candidature recorded in my professional profile. Trade qualification in Engineering Mechanical Automotive through TAFE Queensland. My combined background brings practical engineering understanding to software development, business and organisational leadership."
 direction = "column"
 item_style = "outline"
+icon_size = "30px"
+
+[[sections]]
+title = "Contact and Opportunities"
+description = "Based in Toowoomba, Queensland, Australia. I welcome conversations about senior engineering and technical leadership roles, consulting, industry and stakeholder engagement, corporate communications, strategic partnerships, mentoring and community-focused organisations."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
+[[sections.items]]
+title = "Email"
+url = "mailto:timothyphilipmccallum@gmail.com"
+icon = "https://cdn.simpleicons.org/gmail/ffffff"
+[[sections.items]]
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/timothy-philip-mccallum/"
+[[sections.items]]
+title = "GitHub"
+url = "https://github.com/tpmccallum"
+icon = "https://cdn.simpleicons.org/github/ffffff"
+[[sections.items]]
+title = "Medium"
+url = "https://tpmccallum.medium.com/list/publications-d8712a0a9395"
+icon = "https://cdn.simpleicons.org/medium/ffffff"
+[[sections.items]]
+title = "Instagram"
+url = "https://www.instagram.com/tpmccallum/"
+icon = "https://cdn.simpleicons.org/instagram/ffffff"
+
+[[sections]]
+title = "News and Articles"
+description = "Selected published work spanning agricultural automation, cloud computing, WebAssembly, software engineering and open source."
+direction = "column"
+item_style = "outline"
+icon_size = "30px"
 [[sections.items]]
 title = "Agri Automation Australia Scaled Farm Robotics Monitoring"
-description = "Autonomous farming innovator reduced manual monitoring and cost-effectively scaled with real-time edge alerts."
-url = "https://www.akamai.com/resources/customer-story"
+description = "Customer story about scalable robot monitoring and event alerts."
+url = "https://www.akamai.com/resources/customer-story/agri-automation"
 [[sections.items]]
 title = "Farming at the Edge: Where Autonomous Robots and Edge Compute Meet"
-description = "Autonomous robots create value when they work continuously, safely, and independently — not when they are being watched. They should only require human attention when it truly matters."
+description = "Practical use of edge infrastructure to support autonomous field operations."
 url = "https://www.akamai.com/blog/edge/farming-edge-autonomous-robots-edge-compute-meet"
 [[sections.items]]
-title = "Journey from Toowoomba to the Silicon Valley"
-description = "Reshaping Australian Agriculture through autonomous robotics."
+title = "Journey from Toowoomba to Silicon Valley"
+description = "A story about engineering, curiosity and agricultural innovation."
 url = "https://www.thechronicle.com.au/news/community/how-curiosity-took-toowoomba-mechanic-tim-mccallum-to-silicon-valley-and-back/news-story/3c7c28b1ffe5d8459732f393b1fa063c"
 [[sections.items]]
-title = "Inaugural WebAssembly (Wasm) Summit: Silicon Valley"
-description = "Joined community leaders at a pivotal Google summit in Mountain View to help shape WebAssembly’s role in next-generation ecosystems."
+title = "Inaugural WebAssembly Summit: Silicon Valley"
+description = "My experience at a WebAssembly community gathering at Google in Mountain View."
 url = "https://medium.com/wasm/webassembly-summit-2020-881510ccb0c2"
 [[sections.items]]
-title = "Running WebAssembly (Wasm) Components From the Command Line"
-description = "Technical article published by the Bytecode Alliance. Learn to build and invoke an exported function from a Rust and Wasm component using the Wasmtime CLI."
+title = "Running WebAssembly Components From the Command Line"
+description = "A Bytecode Alliance tutorial on invoking Rust and WebAssembly components using Wasmtime."
 url = "https://bytecodealliance.org/articles/invoking-component-functions-in-wasmtime-cli"
 [[sections.items]]
 title = "C++ Meets the Open Web"
-description = "This article shows you how to write C++ for the Web."
+description = "Compiling C++ applications for the web."
 url = "https://medium.com/wasm/c-meets-the-open-web-74fd71e7fc2b"
 [[sections.items]]
-title = "Wasm-Powered Data Transformation"
-description = "Working With Excel And JSON."
+title = "Wasm Powered Data Transformation"
+description = "Working with Excel, JSON and WebAssembly."
 url = "https://medium.com/wasm/wasm-powered-data-transformation-working-with-excel-and-json-fb3ccdc952f2"
 [[sections.items]]
-title = "WASM Component Model: Seamless Compression — C, Rust, and WASM"
-description = "Building interoperable Wasm components with C and Rust."
+title = "Wasm Component Model: Seamless Compression"
+description = "Exploring interoperability between C, Rust and WebAssembly."
 url = "https://medium.com/wasm/wasm-component-model-seamless-compression-c-rust-and-wasm-3b8d52ed8b31"
 [[sections.items]]
 title = "Serverless AI Inferencing Using Python"
-description = "Serverless AI Inferencing Using Python: Deploy Python-based serverless AI with Spin effortlessly. Dive into our step-by-step guide to unlock seamless AI inferencing on Fermyon Cloud."
+description = "Deploying machine learning inference through a serverless runtime."
 url = "https://www.fermyon.com/blog/serverless-ai-inferencing-using-python"
 [[sections.items]]
 title = "Diving Into Ethereum’s World State"
-description = "A deep dive into how Ethereum works."
+description = "Technical exploration of Ethereum storage and execution."
 url = "https://medium.com/cybermiles/diving-into-ethereums-world-state-c893102030ed"
 [[sections.items]]
-title = "Mastering Ethereum (GitHub Contribution)"
-description = "Contributed to Andreas M. Antonopoulos and Gavin Wood’s open-source book."
+title = "Mastering Ethereum: Open Source Contribution"
+description = "Contributions to the open source book by Andreas M. Antonopoulos and Gavin Wood."
 url = "https://github.com/ethereumbook/ethereumbook"
+
 [[sections]]
 title = "Scholarly Works That Reference My Articles"
-description = "My articles have been cited in top-tier Journals (such as Springer, Sage, IEEE) by scholars from across the globe including regions such as Germany, China, Switzerland and U.S.A."
+description = "My published technical work has been referenced in academic and professional research on WebAssembly, security, Ethereum and distributed systems. Selected references are listed below."
 direction = "column"
 item_style = "outline"
 icon_size = "30px"
 [[sections.items]]
-title = "Fuzzm: Finding Memory Bugs through Binary-Only Instrumentation and Fuzzing of WebAssembly"
-description = "Publisher: arXiv.org (Cornell University)."
+title = "Fuzzm: Finding Memory Bugs through Binary Only Instrumentation and Fuzzing of WebAssembly"
+description = "Research available via arXiv."
 url = "https://arxiv.org/abs/2110.15433"
 [[sections.items]]
-title = "An Ethereum bill of lading under the UNCITRAL MLETR"
-description = "Publisher: Sage Journals."
+title = "An Ethereum Bill of Lading under the UNCITRAL MLETR"
+description = "Sage Journals."
 url = "https://journals.sagepub.com/doi/abs/10.1177/1023263X20904316"
 [[sections.items]]
-title = "Using Ethereum blockchain to store and query pharmacogenomics data via smart contracts"
-description = "Publisher: BMC Medical Genomics (Springer Nature)."
+title = "Using Ethereum Blockchain to Store and Query Pharmacogenomics Data"
+description = "BMC Medical Genomics, Springer Nature."
 url = "https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-020-00732-x"
 [[sections.items]]
 title = "Ethereum Analytics"
-description = "Publisher: ETH Zürich (Switzerland)."
+description = "ETH Zürich."
 url = "https://ethz.ch/content/dam/ethz/special-interest/mtec/chair-of-entrepreneurial-risks-dam/documents/dissertation/master%20thesis/Master_thesis-Athina_Voulgari.pdf"
 [[sections.items]]
-title = "Blockchain Technology in the Oil and Gas Industry: A Review of Applications, Opportunities, Challenges, and Risks"
-description = "Publisher: IEEE Xplore."
+title = "Blockchain Technology in the Oil and Gas Industry"
+description = "IEEE Xplore."
 url = "https://ieeexplore.ieee.org/abstract/document/8675726"
 [[sections.items]]
 title = "Everything Old is New Again: Binary Security of WebAssembly"
-description = "Publisher: The Advanced Computing System Association (USE-NIX) – 29th Security Symposium."
+description = "USENIX Security Symposium."
 url = "https://www.usenix.org/conference/usenixsecurity20/presentation/lehmann"
 [[sections.items]]
-title = "Symbolic Execution of Wasm Bytecode for Cross-Platform Smart Contract Vulnerability Detection"
-description = "Publisher: arXiv.org (Cornell University)."
+title = "Symbolic Execution of Wasm Bytecode for Smart Contract Vulnerability Detection"
+description = "Research available via arXiv."
 url = "https://arxiv.org/abs/2007.15510"
 [[sections.items]]
 title = "Blockchain als verteilte Netzwerktechnologie"
-description = "Publisher: Springer Link."
+description = "Springer Link."
 url = "https://link.springer.com/chapter/10.1007/978-3-658-29822-7_2"
 [[sections.items]]
-title = "Einer Blockchain-basierten IoT-Infrastruktur mit Ethereum und Swarm"
-description = "Publisher: HAW Hamburg."
+title = "Einer Blockchain basierten IoT Infrastruktur mit Ethereum und Swarm"
+description = "HAW Hamburg."
 url = "https://reposit.haw-hamburg.de/bitstream/20.500.12738/9127/1/BA_Artur_Iablokov.pdf"
-
